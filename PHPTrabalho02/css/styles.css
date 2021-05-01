@@ -1,0 +1,49 @@
+.divHome
+{
+  height: 130px;
+  margin-top: 26px;
+  text-align: center;
+  font-family: arial;
+  color: #FFFFFF;
+}
+
+.divMovies
+{
+  height: 70px;
+  margin-top: 10px;
+  text-align: center;
+  font-family: arial;
+  color: #FFFFFF;
+}
+
+.card1
+{
+  width: 370px;
+  margin-left: 80px;
+  text-align: justify;
+  color: #FFFFFF;
+  display: inline-block;
+}
+
+.card2
+{
+  width: 370px;
+  margin-left: 20px;
+  text-align: justify;
+  color: #FFFFFF;
+  display: inline-block;
+}
+
+.card3
+{
+  width: 370px;
+  margin-left: 20px;
+  text-align: justify;
+  color: #FFFFFF;
+  display: inline-block;
+}
+
+.card-body
+{
+  background-color: #585858;
+}

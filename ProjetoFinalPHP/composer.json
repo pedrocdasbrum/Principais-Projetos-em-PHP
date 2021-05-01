@@ -1,0 +1,14 @@
+{
+    "name": "pedro/projetofinalphp",
+    "description": "projeto final da disciplina de php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Caetano",
+            "email": "pedrocdasbrum#@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

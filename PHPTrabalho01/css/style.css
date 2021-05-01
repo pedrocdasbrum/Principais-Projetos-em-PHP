@@ -1,0 +1,119 @@
+.body
+{
+  background-image: url(https://images.hdqwalls.com/download/velgen-kc-wide-dodge-hellcat-widebody-8k-hn-1920x1080.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.dtbody
+{
+  background-image: url(https://images.hdqwalls.com/download/dodge-hellcat-widebody-velgen-kc-wide-8k-49-1920x1080.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.title
+{
+  height: 100px;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000;
+  font-size: 60px;
+  font-family: arial;
+  padding-top: 25px;
+  color: #FFFFFF;
+}
+
+.dttitle
+{
+  height: 150px;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000;
+  font-size: 20px;
+  font-family: arial;
+  padding-top: 30px;
+  color: #FFFFFF;
+}
+
+.subtitle
+{
+  font-family: arial;
+  height: 200px;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000;
+  color: #FFFFFF;
+}
+
+.subtitle h1 h2
+{
+  margin-top: 5px;
+  font-style: normal;
+}
+
+.info
+{
+  border-radius: 6px;
+  width: 350px;
+  font-family: arial;
+  color: #FFFFFF;
+  background-color: #9D5353;
+  margin-left: 480px;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.btrent
+{
+  padding-left: 30px;
+  margin-left: 600px;
+  padding: 15px 32px;
+  text-decoration: none;
+  text-align: center;
+  font-family: arial;
+  border-radius: 6px;
+  background: #9D5353;
+  color: #FFFFFF;
+}
+
+.btrent:hover
+{
+  background: #FFFFFF;
+  color: #000000;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.btconfirm
+{
+  padding: 15px 32px;
+  text-decoration: none;
+  text-align: center;
+  font-family: arial;
+  border-radius: 6px;
+  background: #9D5353;
+  color: #FFFFFF;
+}
+
+.btconfirm:hover
+{
+  background: #FFFFFF;
+  color: #000000;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.btclear
+{
+  padding: 15px 32px;
+  text-decoration: none;
+  text-align: center;
+  font-family: arial;
+  border-radius: 6px;
+  background: #9D5353;
+  color: #FFFFFF;
+}
+
+.btclear:hover
+{
+  background: #FFFFFF;
+  color: #000000;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
